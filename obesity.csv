@@ -1,0 +1,20 @@
+ID,Age,Gender,Height,Weight,BMI,Label
+1,25,Male,175,80,25.3,Normal Weight
+2,30,Female,160,60,22.5,Normal Weight
+3,35,Male,180,90,27.3,Overweight
+4,40,Female,150,50,20,Underweight
+5,45,Male,190,100,31.2,Obese
+6,50,Female,140,40,16.7,Underweight
+7,55,Male,200,110,34.2,Obese
+8,60,Female,130,30,13.3,Underweight
+9,65,Male,210,120,37.2,Obese
+10,70,Female,120,20,10,Underweight
+11,18,Male,175,70,23.4,Normal Weight
+12,23,Female,160,50,20,Underweight
+13,28,Male,180,80,25.3,Normal Weight
+14,33,Female,150,60,22.5,Normal Weight
+15,38,Male,190,90,27.3,Overweight
+16,43,Female,140,50,20,Underweight
+17,48,Male,200,100,31.2,Obese
+19,53,Female,130,40,16.7,Underweight
+20,58,Male,210,110,34.2,Obese
